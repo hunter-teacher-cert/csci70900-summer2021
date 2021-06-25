@@ -1,16 +1,19 @@
 # csci70900-summer2021
 main working repo for Progamming in a High Level Language -- Summer 2021
 
-This page (the "main" readme for this github repo) will display general resources. For day-to-day affairs, including assignments and code, you will want to bookmark the ["daily"](https://github.com/hunter-teacher-cert/csci70900-summer2021/tree/main/daily) subdirectory and have it open during each session:
+_Nota bene: This page (the "main" readme for this github repo) will display general resources. For day-to-day affairs, including assignments and code, you will want to bookmark the ["daily"](https://github.com/hunter-teacher-cert/csci70900-summer2021/tree/main/daily) subdirectory and have it open during each session._
 
 ## Discussion
-- Standing zoom session: tkURL (decide: tm or gm host?)
-- Slack: tkURL
-  - real-time chatting during live sessions
+- standing zoom session: tkURL (decide: tm or gm host?)
+- slack: tkURL
+  - real-time chat during live sessions ( __Use instead of zoomchat!__
+ )
+  - asynchronous communication between sessions
+  - Cohort 0 and others may offer support here...
 
 ## Text and related resources
-- Syllabus: https://github.com/hunter-teacher-cert/syllabi-summer-2021/blob/main/programming.md
-- Pre-Work: tkURL
+- syllabus: https://github.com/hunter-teacher-cert/syllabi-summer-2021/blob/main/programming.md
+- pre-Work: tkURL
 - Java:
   - Think Java (Downy, Mayfield):
     - text: http://greenteapress.com/thinkjava6/html/index.html, https://books.trinket.io/thinkjava/
@@ -22,10 +25,10 @@ This page (the "main" readme for this github repo) will display general resource
   - a clear Java trace diagram example: https://introcs.cs.princeton.edu/java/21function/
   - UWaterloo Java visualizer: https://cscircles.cemc.uwaterloo.ca/java_visualize/
   - Java Tutor: http://pythontutor.com/java.html#mode=edit
-- Cheatsheets:
-  - Java Cheatsheet (Princeton): https://introcs.cs.princeton.edu/java/11cheatsheet/
-  - Java Cheatsheet (Codecademy):  https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world/cheatsheet
-  - Git Cheatsheet: https://education.github.com/git-cheat-sheet-education.pdf
+- cheatsheets:
+  - Java cheatsheet (Princeton): https://introcs.cs.princeton.edu/java/11cheatsheet/
+  - Java cheatsheet (Codecademy):  https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world/cheatsheet
+  - Git cheatsheet: https://education.github.com/git-cheat-sheet-education.pdf
 - Rubber Duck Debugging:
   - https://en.wikipedia.org/wiki/Rubber_duck_debugging
   - http://rubber-duck-debugging.org/
