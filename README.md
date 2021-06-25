@@ -35,10 +35,7 @@ This page (the "main" readme for this github repo) will display general resource
   - https://rubberduckdebugging.com/cyberduck/
 
 
-## Misc
-
-The classcode folder in this repo contains all code developed by the
-instructors during the classes.
-
 ## Our work repos
+- tklink
+- tklink
 - tklink
