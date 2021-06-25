@@ -5,7 +5,7 @@ _Nota bene: This page (the "main" readme for this github repo) will display gene
 
 ## Discussion
 - standing zoom session: tkURL (decide: tm or gm host?)
-- slack: tkURL
+- slack: https://hunterteacher-vyz6159.slack.com/
   - real-time chat during live sessions ( __Use instead of zoomchat!__
  )
   - asynchronous communication between sessions
@@ -13,7 +13,7 @@ _Nota bene: This page (the "main" readme for this github repo) will display gene
 
 ## Text and related resources
 - syllabus: https://github.com/hunter-teacher-cert/syllabi-summer-2021/blob/main/programming.md
-- pre-Work: tkURL
+- pre-Work: https://github.com/hunter-teacher-cert/pre-work
 - Java:
   - Think Java (Downy, Mayfield):
     - text: http://greenteapress.com/thinkjava6/html/index.html, https://books.trinket.io/thinkjava/
