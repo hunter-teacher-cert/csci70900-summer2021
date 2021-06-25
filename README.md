@@ -1,7 +1,7 @@
 # csci70900-summer2021
 main working repo for Progamming in a High Level Language -- Summer 2021
 
-This page (the "main" readme for this github repo) will display general resources. For day-to-day affairs, including assignments and code, you will want to bookmark the "daily" subdirectory and have it open during each session: https://github.com/hunter-teacher-cert/csci70900-summer2021/tree/main/daily
+This page (the "main" readme for this github repo) will display general resources. For day-to-day affairs, including assignments and code, you will want to bookmark the ["daily"](https://github.com/hunter-teacher-cert/csci70900-summer2021/tree/main/daily) subdirectory and have it open during each session:
 
 ## Discussion
 - Standing zoom session: tkURL (decide: tm or gm host?)
