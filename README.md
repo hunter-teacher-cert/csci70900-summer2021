@@ -29,7 +29,7 @@ _Nota bene: This page (the "main" readme for this github repo) will display gene
   - Java cheatsheet (Princeton): https://introcs.cs.princeton.edu/java/11cheatsheet/
   - Java cheatsheet (Codecademy):  https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world/cheatsheet
   - Git cheatsheet: https://education.github.com/git-cheat-sheet-education.pdf
-- Rubber Duck Debugging:
+- rubber duck debugging:
   - https://en.wikipedia.org/wiki/Rubber_duck_debugging
   - http://rubber-duck-debugging.org/
   - https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/
