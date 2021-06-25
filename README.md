@@ -8,19 +8,14 @@ This page (the "main" readme for this github repo) will display general resource
 - Slack: tkURL
   - real-time chatting during live sessions
 
-The discussion forum is preferred since it's longer lasting.
 ## Text and related resources
-- Think Java: https://books.trinket.io/thinkjava/
-- Think Java Source: https://github.com/AllenDowney/ThinkJavaCode
-
-## Links
-
-- Pre-Work: tkURL
 - Syllabus: https://github.com/hunter-teacher-cert/syllabi-summer-2021/blob/main/programming.md
+- Pre-Work: tkURL
 - Java:
   - Think Java (Downy, Mayfield):
-    - text: http://greenteapress.com/thinkjava6/html/index.html
+    - text: http://greenteapress.com/thinkjava6/html/index.html, https://books.trinket.io/thinkjava/
     - interactive: https://books.trinket.io/thinkjava/
+    - source: https://github.com/AllenDowney/ThinkJavaCode
   - CS - Sedgewick / Wayne: https://introcs.cs.princeton.edu/java/
   - Intro to CS using Java - Kjell: https://chortle.ccsu.edu/Java5/index.html#03
   - Intro to Java - Udacity CS046: https://horstmann.com/sjsu/cs046/
