@@ -16,7 +16,11 @@ Toolset
 - javac, java
 - editor
 
-Lecture: Java basics
+Lecture: Java basics/overview 
+- intro: 
+https://docs.google.com/presentation/d/13-6hqWlot-uRs7MiY1ie8aVZ6be-BNRSnzQiBSVgp1A/edit?usp=sharing
+- variables and types: 
+https://docs.google.com/presentation/d/1yVJmlQIKBpRKl0enOIwOjuRF3cPIfbY9RBnvJw-LN6Q/edit?usp=sharing
 
 #### Work: Review pre-work
 - __Note any observed best practices.__
