@@ -8,6 +8,7 @@ We'll use this section to post work throughout the sessions. This page will upda
   - course
   - instructors
   - cohort
+  - program overview
 - Toolset
 - Lecture: Java basics
 - Review pre-work
