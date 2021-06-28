@@ -4,12 +4,12 @@ main working repo for Progamming in a High Level Language -- Summer 2021
 _Nota bene: This page (the "main" readme for this github repo) will display general resources. For day-to-day affairs, including assignments and code, you will want to bookmark the ["daily"](https://github.com/hunter-teacher-cert/csci70900-summer2021/tree/main/daily) subdirectory and have it open during each session._
 
 ## Discussion
-- standing zoom session: tkURL (decide: tm or gm host?)
+- standing zoom session: https://us02web.zoom.us/j/82948211667?pwd=YXVlL09tb3pXcFFnWktsNHFGSkdOZz09
 - slack: https://hunterteacher-vyz6159.slack.com/
   - real-time chat during live sessions ( __Use instead of zoomchat!__
  )
   - asynchronous communication between sessions
-  - Cohort 0 and others may offer support here...
+  - Last year's cohort may offer support here...
 
 ## Text and related resources
 - syllabus: https://github.com/hunter-teacher-cert/syllabi-summer-2021/blob/main/programming.md
