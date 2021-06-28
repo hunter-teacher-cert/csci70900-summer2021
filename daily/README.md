@@ -3,7 +3,7 @@ We'll use this section to post work throughout the sessions. This page will upda
 
 ---
 
-### Day 0 | Day 0b00000 | Day 0x00 : 6/28
+### Day 0 | Day 0b000 | Day 0x0 : 6/28
 Intros
 - course
 - instructors
@@ -34,10 +34,10 @@ Lecture: Java basics
 
 * * *
 
-### Day 1 | Day 0b001 | Day 0x01 : 6/29
-### Day 2 | Day 0b010 | Day 0x02 : 6/30
-### Day 3 | Day 0b011 | Day 0x03 : 7/01
-### Day 4 | Day 0b100 | Day 0x04 : 7/02
-### Day 5 | Day 0b101 | Day 0x05 : 7/06
-### Day 6 | Day 0b110 | Day 0x06 : 7/07
-### Day 7 | Day 0b111 | Day 0x07 : 7/08
+### Day 1 | Day 0b001 | Day 0x1 : 6/29
+### Day 2 | Day 0b010 | Day 0x2 : 6/30
+### Day 3 | Day 0b011 | Day 0x3 : 7/01
+### Day 4 | Day 0b100 | Day 0x4 : 7/02
+### Day 5 | Day 0b101 | Day 0x5 : 7/06
+### Day 6 | Day 0b110 | Day 0x6 : 7/07
+### Day 7 | Day 0b111 | Day 0x7 : 7/08
