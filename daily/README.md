@@ -4,14 +4,33 @@ We'll use this section to post work throughout the sessions. This page will upda
 ---
 
 ### Day 0 | Day 0b00000 | Day 0x00 : 6/28
-- Intros
-  - course
-  - instructors
-  - cohort
-  - program overview
-- Toolset
-- Lecture: Java basics
-- Review pre-work
+Intros
+- course
+- instructors
+- cohort
+- program overview
+
+Toolset
+- slack
+- CLI 
+- javac, java
+- editor
+
+Lecture: Java basics
+
+#### Work: Review pre-work
+- __Note any observed best practices.__
+- Bookmark locations of others' repos.
+- Grow cohort KB ("knowledge base") on slack:
+  - Have a Q? Ask.
+  - Confident in your skills/knowledge? _See how well you can explain it._
+- Small group sessions:
+  - Discuss pre-work, explore one another's solutions.
+  - Reconvene and present your team's cleanest solution / clearest explanation.
+- DELIVERABLE:
+  - Better version of each pre-work submission.
+  - Cite any resources (human or other) you find helpful, as in-line comments.
+  - Will be stored in your new work repo.
 
 * * *
 
