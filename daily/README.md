@@ -42,7 +42,7 @@ https://docs.google.com/presentation/d/1yVJmlQIKBpRKl0enOIwOjuRF3cPIfbY9RBnvJw-L
 
 Pre-work demos, Q&A
 
-Lecture: Java basics continued, 1D arrays
+Lecture: Java basics continued
 
 #### Work: Organize Work Repo
 Your work repo should take on the structure shown below.
@@ -125,5 +125,8 @@ Write a program that will allow a human at console to play against your "AI" a g
 - DELIVERABLE:
   - Save in your_work_repo: `01/Nim.java`
   - Include heading at top of file, as comment. List all collaborators and consultants.
+
+Lecture: 1D arrays
+- slides: https://docs.google.com/presentation/d/1OG5N7mH3DZfVdmDhaFvANQljrnbt8pAwpMOShPfktfA/edit?ts=60db56ba#slide=id.p178
 
 * * *
