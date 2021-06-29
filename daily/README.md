@@ -38,3 +38,9 @@ https://docs.google.com/presentation/d/1yVJmlQIKBpRKl0enOIwOjuRF3cPIfbY9RBnvJw-L
 
 * * *
 
+### Day 1 | Day 0b001 | Day 0x1 : 6/29
+
+Pre-work demos, Q&A
+
+Lecture: Java basics continued, 1D arrays
+
