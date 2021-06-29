@@ -127,6 +127,6 @@ Write a program that will allow a human at console to play against your "AI" a g
   - Include heading at top of file, as comment. List all collaborators and consultants.
 
 Lecture: 1D arrays
-- slides: https://docs.google.com/presentation/d/1OG5N7mH3DZfVdmDhaFvANQljrnbt8pAwpMOShPfktfA/edit?ts=60db56ba#slide=id.p178
+- slides: https://docs.google.com/presentation/d/1OG5N7mH3DZfVdmDhaFvANQljrnbt8pAwpMOShPfktfA/edit?usp=sharing
 
 * * *
