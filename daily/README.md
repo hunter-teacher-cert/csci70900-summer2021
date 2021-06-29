@@ -123,7 +123,7 @@ Write a program that will allow a human at console to play against your "AI" a g
   - Confident in your skills/knowledge? _See how well you can explain it._
 
 - DELIVERABLE:
-  - Save in your_work_repo: `01/Nim.java`
+  - Save in your_work_repo: `1/Nim.java`
   - Include heading at top of file, as comment. List all collaborators and consultants.
 
 Lecture: 1D arrays
