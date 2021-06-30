@@ -186,5 +186,9 @@ Lecture: Basics of Recursion
 - slides: 
 - see main page for links to visualizers for recursive executions
 
+Lab work time in small groups.
+- Solidify repo structure, git/github basics
+- Get mancala to a working state.
+
 * * *
 
