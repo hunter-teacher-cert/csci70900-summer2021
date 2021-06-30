@@ -130,3 +130,13 @@ Lecture: 1D arrays
 - slides: https://docs.google.com/presentation/d/1OG5N7mH3DZfVdmDhaFvANQljrnbt8pAwpMOShPfktfA/edit?usp=sharing
 
 * * *
+
+### Day 2 | Day 0b010 | Day 0x2 : 6/30
+
+Demo(s) game of Nim
+
+Lab work time in small groups.
+
+Lecture: Basics of Recursion
+- slides: 
+
