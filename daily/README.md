@@ -137,9 +137,6 @@ Demo(s) game of Nim
 
 Lab work time in small groups.
 
-Lecture: Basics of Recursion
-- slides: 
-
 #### Work: Mancala
 _GOAL:_
 
@@ -185,4 +182,9 @@ With your new team, write a program to facilitate a mancala game in the terminal
   - Save in your_work_repo: `2/Mancala.java`
   - Include heading at top of file, as comment. List all collaborators and consultants.
 
+Lecture: Basics of Recursion
+- slides: 
+- see main page for links to visualizers for recursive executions
+
 * * *
+
