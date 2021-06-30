@@ -183,7 +183,6 @@ With your new team, write a program to facilitate a mancala game in the terminal
   - Include heading at top of file, as comment. List all collaborators and consultants.
 
 Lecture: Basics of Recursion
-- slides: 
 - see main page for links to visualizers for recursive executions
 
 Lab work time in small groups.
@@ -192,3 +191,9 @@ Lab work time in small groups.
 
 * * *
 
+### Day 3 | Day 0b011 | Day 0x3 : 7/01
+
+Lab work time in small groups. (new teams, recursion)
+
+Lecture: 2D Arrays
+- reading: https://chortle.ccsu.edu/Java5/Notes/chap49C/ch49C_1.html
