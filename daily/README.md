@@ -185,17 +185,15 @@ With your new team, write a program to facilitate a mancala game in the terminal
 Lecture: Basics of Recursion
 - see main page for links to visualizers for recursive executions
 
-Lab work time in small groups.
-- Solidify repo structure, git/github basics
-- Get mancala to a working state.
-
 * * *
 
 ### Day 3 | Day 0b011 | Day 0x3 : 7/01
 
-Lab work time in small groups. (new teams, recursion)
+Lab work time in small groups.
+- Solidify repo structure, git/github basics
+- Get mancala to a working state.
 
 Lecture: 2D Arrays
 - reading: https://chortle.ccsu.edu/Java5/Notes/chap49C/ch49C_1.html
 
-Lab work time in small groups. (2D arrays)
+Lab work time in small groups. (new teams, 2D arrays)
