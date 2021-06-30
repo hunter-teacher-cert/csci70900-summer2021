@@ -197,3 +197,5 @@ Lab work time in small groups. (new teams, recursion)
 
 Lecture: 2D Arrays
 - reading: https://chortle.ccsu.edu/Java5/Notes/chap49C/ch49C_1.html
+
+Lab work time in small groups. (2D arrays)
