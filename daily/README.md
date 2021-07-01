@@ -242,3 +242,43 @@ Fill in the missing body of each method and use the main() method to test. You a
 
 * * *
 
+#### Work: Putting 2D Arrays to Use -- CGOL
+
+_GOAL:_
+
+Design and implement an engine to play Conway's Game of Life.
+
+_GUIDELINES:_
+
+__The Rules of Life:__
+
+Survivals: 
+  - Every cell with 2 or 3 living neighbours survives for the next generation.
+
+Death:
+  - Each cell with >3 neighbours dies from overpopulation.
+  - Every cell with <2 neighbours dies from isolation.
+
+Birth:
+  - Each dead cell adjacent to exactly 3 living neighbours is a birth cell. It will come alive next generation.
+  
+_Nota bene: All births and deaths occur simultaneously. Together, they constitute a single generation._
+
+
+_YOUR CODING MISSION:_
+
+1. Read the entire skeleton file, as a team, for understanding. 
+2. Discuss, as a team, how you will approach this. Pick the approach that makes the most sense to all teammates, and implement it.
+
+- PROTIPS:
+  - Design first. Sketch out your plan on paper ("keys to success"), transcribe into comments in your code file.
+  - Get something, however, minimal, to compile and run ASAP. Incrementally grow it until it aligns with your goal.
+  - Never stray far from runnable code. 
+- Grow cohort KB ("knowledge base") on slack:
+  - Have a Q? Ask.
+  - Confident in your skills/knowledge? _See how well you can explain it._
+- DELIVERABLE:
+  - Save in your_work_repo: `3/Cgol.java`
+  - Include heading at top of file, as comment. List all collaborators and consultants.
+
+
