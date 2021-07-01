@@ -274,6 +274,9 @@ _YOUR CODING MISSION:_
   - Design first. Sketch out your plan on paper ("keys to success"), transcribe into comments in your code file.
   - Get something, however, minimal, to compile and run ASAP. Incrementally grow it until it aligns with your goal.
   - Never stray far from runnable code. 
+- Need to tune your mental model? Play here: https://playgameoflife.com/
+- That one not fancy enough for you? Play here: https://gameoflife.pro/
+- Want more background? Read up here: https://en.wikipedia.org/wiki/The_Game_of_Life
 - Grow cohort KB ("knowledge base") on slack:
   - Have a Q? Ask.
   - Confident in your skills/knowledge? _See how well you can explain it._
@@ -281,4 +284,4 @@ _YOUR CODING MISSION:_
   - Save in your_work_repo: `3/Cgol.java`
   - Include heading at top of file, as comment. List all collaborators and consultants.
 
-
+* * *
