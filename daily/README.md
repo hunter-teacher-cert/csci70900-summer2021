@@ -203,6 +203,8 @@ http://pythontutor.com/java.html#code=public%20class%20YourClassNameHere%20%7B%0
 
 ### Day 3 | Day 0b011 | Day 0x3 : 7/01
 
+Workflow demo/PROTIPS
+
 Lab work time in small groups.
 - Solidify repo structure, git/github basics
 - Get mancala to a working state.
