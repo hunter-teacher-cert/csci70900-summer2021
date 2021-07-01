@@ -211,6 +211,7 @@ Lab work time in small groups.
 
 Lecture: 2D Arrays
 - reading: https://chortle.ccsu.edu/Java5/Notes/chap49C/ch49C_1.html
+- online editor / visuals: https://csawesome.runestone.academy/runestone/books/published/csawesome/Unit8-2DArray/topic-8-2-2D-array-loops-Day1.html
 
 Lab work time in small groups. 
 
