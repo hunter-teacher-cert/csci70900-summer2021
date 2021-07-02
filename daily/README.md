@@ -318,3 +318,9 @@ _YOUR CODING MISSION:_
   - Include heading at top of file, as comment. List all collaborators and consultants.
 
 * * *
+
+### Day 5 | Day 0b101 | Day 0x5 : 7/06
+
+Lecture: Java Classes and Objects
+- reading: Ch10 and Ch11 in ThinkJava
+
