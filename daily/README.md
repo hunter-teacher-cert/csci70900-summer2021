@@ -291,3 +291,28 @@ _YOUR CODING MISSION:_
 Lab work time in small groups. (CGOL)
 
 Demos, discussion of development techniques.
+
+#### Work: Optional CGOL extension:
+
+_GOAL:_
+
+Apply an automated generational propagation mechanism to your CGOL apparatus.
+
+_YOUR CODING MISSION:_
+
+1. Make your own copy of Animate.java from the daily code directory.
+3. As a team, read for understanding, run, repeat as necessary until understanding achieved.
+4. Discuss, as a team, how you will approach grafting the animation code onto your generation transition code. Pick the approach that makes the most sense to all teammates, and implement it.
+
+- PROTIPS:
+  - Design first. Sketch out your plan on paper ("keys to success"), transcribe into comments in your code file.
+  - Get something, however, minimal, to compile and run ASAP. Incrementally grow it until it aligns with your goal.
+  - Never stray far from runnable code.
+- Grow cohort KB ("knowledge base") on slack:
+  - Have a Q? Ask.
+  - Confident in your skills/knowledge? _See how well you can explain it._
+- DELIVERABLE:
+  - Save in your_work_repo: `4/Cgol.java`
+  - Include heading at top of file, as comment. List all collaborators and consultants.
+
+* * *
