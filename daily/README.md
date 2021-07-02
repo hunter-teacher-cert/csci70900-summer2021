@@ -285,3 +285,8 @@ _YOUR CODING MISSION:_
   - Include heading at top of file, as comment. List all collaborators and consultants.
 
 * * *
+
+### Day 4 | Day 0b100 | Day 0x4 : 7/02
+
+Lab work time in small groups. (CGOL)
+
