@@ -179,7 +179,7 @@ With your new team, write a program to facilitate a mancala game in the terminal
   - Have a Q? Ask.
   - Confident in your skills/knowledge? _See how well you can explain it._
 - DELIVERABLE:
-  - Save in your_work_repo: `2/Mancala.java`
+  - Save in your work repo: `2/Mancala.java`
   - Include heading at top of file, as comment. List all collaborators and consultants.
 
 Lecture: Basics of Recursion
@@ -237,7 +237,7 @@ Fill in the missing body of each method and use the main() method to test. You a
   - Have a Q? Ask.
   - Confident in your skills/knowledge? _See how well you can explain it._
 - DELIVERABLE:
-  - Save in your_work_repo: `3/TwoDimArray.java`
+  - Save in your work repo: `3/TwoDimArray.java`
   - Include heading at top of file, as comment. List all collaborators and consultants.
 
 * * *
@@ -312,7 +312,7 @@ _YOUR CODING MISSION:_
   - Have a Q? Ask.
   - Confident in your skills/knowledge? _See how well you can explain it._
 - DELIVERABLE:
-  - Save in your_work_repo: `4/Cgol.java`
+  - Save in your work repo: `4/Cgol.java`
   - Include heading at top of file, as comment. List all collaborators and consultants.
 
 * * *
