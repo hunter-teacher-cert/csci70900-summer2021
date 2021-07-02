@@ -292,6 +292,8 @@ Lab work time in small groups. (CGOL)
 
 Demos, discussion of development techniques.
 
+Extensions/applications of CGOL and cellular automata in general.
+
 #### Work: Optional CGOL extension:
 
 _GOAL:_
