@@ -44,7 +44,7 @@ _Nota bene: This page (the "main" readme for this github repo) will display gene
 - [Michelle Best](https://github.com/hunter-teacher-cert/work_csci70900-MichCS)
 - [Jovani Cardenas Tapia](https://github.com/hunter-teacher-cert/work_csci70900-JCardenas62)
 - [Lyubov Fridman](https://github.com/hunter-teacher-cert/work_csci70900-lfridman2016)
-- [Chaouiki Hadjahmed]()
+- [Chaouiki Hadjahmed](https://github.com/hunter-teacher-cert/work_csci70900-chaouiki1)
 - [Iulian Irimina](https://github.com/hunter-teacher-cert/work_csci70900-irimina)
 - [Stephannia Kabanakis](https://github.com/hunter-teacher-cert/work_csci70900-skabanakis)
 - [Jiyoon Kim](https://github.com/hunter-teacher-cert/work_csci70900-jkimbxv)
