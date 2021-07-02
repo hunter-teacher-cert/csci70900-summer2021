@@ -290,3 +290,4 @@ _YOUR CODING MISSION:_
 
 Lab work time in small groups. (CGOL)
 
+Demos, discussion of development techniques.
