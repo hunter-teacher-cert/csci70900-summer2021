@@ -1,0 +1,12 @@
+http://hello.p5js.org/
+
+google version of jupyter notebooks (same interface, but hosted by goog instead of you; hooks into googdrive)
+https://colab.research.google.com/notebooks/intro.ipynb
+
+repl.it
+
+codeshare.com
+
+collection of standalone mini-challenges with built-in test cases in python & java
+codingbat.com
+
