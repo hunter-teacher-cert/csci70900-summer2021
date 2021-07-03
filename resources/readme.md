@@ -33,6 +33,13 @@ Since the button image is the same for all your repos, you can just copy this, a
 
 John Conway's Game of Life:
   - overview: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+  - more reading:
+    - https://en.wikipedia.org/wiki/Glider_(Conway's_Life)
+    - https://en.wikipedia.org/wiki/Spaceship_(cellular_automaton)
+    - https://en.wikipedia.org/wiki/Ship_of_Theseus
+    - https://en.wikipedia.org/wiki/Turing_machine
+    - https://en.wikipedia.org/wiki/Bill_Gosper
+    - https://en.wikipedia.org/wiki/Richard_K._Guy
   - playable site: https://playgameoflife.com/ or https://bitstorm.org/gameoflife/
   - playable site: https://gameoflife.pro/
   - Golly: http://golly.sourceforge.net/
