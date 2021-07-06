@@ -383,6 +383,8 @@ _YOUR CODING MISSION:_
 Lecture: Java Classes and Objects
 - reading: Ch10 and Ch11 in ThinkJava
 
+Lab work time in small groups. (basic class implementation)
+
 #### Work: Intro to Classes and Objects
 
 _GOAL:_
