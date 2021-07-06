@@ -321,6 +321,65 @@ _YOUR CODING MISSION:_
 
 ### Day 5 | Day 0b101 | Day 0x5 : 7/06
 
+Lab work time in small groups. (recursion)
+
+#### Work: Recursion -- Have it your way
+_GOAL:_
+
+Implement a mechanism to calculate the _nth_ value in the Fibonacci sequence.
+
+_GUIDELINES:_
+
+Some test calls and associated return values:
+* `fib(0) -> 0`
+* `fib(1) -> 1`
+* `fib(2) -> 1`
+* `fib(3) -> 2`
+* `fib(4) -> 3`
+* `fib(5) -> 5`
+
+###### Hallmarks of a Recursive Function: 
+* A BASE CASE, which is a simple case value we know how to evaluate without a recursive call. It stops the recursion. 
+  - a.k.a. "exit case."
+  - _E.g._, 0! => 1 for factorial(n)
+* A RECURSIVE REDUCTION, wherein the function calls a simpler version of itself or a version closer to "the answer." 
+  - This must lead toward the base case... Or else?
+  - _E.g._, (n-1)! for factorial(n)
+
+###### STEPS FOR DEVELOPING A RECURSIVE PROCEDURE:
+1. Write down simple cases & expected outputs.
+2. Write down a case slightly more complex than base case
+(e.g. factorial(2) )
+3. Ask Q: How can I get from this case to a base case?
+(Ans is key to developing recursive reduction.)
+4. Q: What must be done in addition to the reduction?
+(e.g. +1, +n, *n, etc...)
+As you design your algorithms, brainstorm on paper.
+Work out the base case and recursive reduction
+BEFORE you start coding...
+
+_YOUR CODING MISSION:_
+
+1. Discuss, as a team, how you will approach this. Pick the approach that makes the most sense to all teammates, and implement it.
+2. Once you get that working, entertain alternate approaches. 
+   - Discuss pros/cons of each approach, and record these as part of the comments preceding each method.
+   - Comment out your existing fib() implementation, and implement your new version.
+   - Repeat for as many different approaches as you can.
+
+- PROTIPS:
+  - Design first. Sketch out your plan on paper ("keys to success"), transcribe into comments in your code file.
+  - Get something, however, minimal, to compile and run ASAP. Incrementally grow it until it aligns with your goal.
+    - Start with test calls like `fib(0)` and `fib(1)`... and only test larger inputs once you have a working function.
+  - Never stray far from runnable code. 
+- Grow cohort KB ("knowledge base") on slack:
+  - Have a Q? Ask.
+  - Confident in your skills/knowledge? _See how well you can explain it._
+- DELIVERABLE:
+  - Save in your_work_repo: `5/Fib.java`
+  - Include heading at top of file, as comment. List all collaborators and consultants.
+
+* * *
+
 Lecture: Java Classes and Objects
 - reading: Ch10 and Ch11 in ThinkJava
 
