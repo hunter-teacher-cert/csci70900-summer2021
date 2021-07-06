@@ -1,8 +1,12 @@
 # General Resources 
 
-cheatsheet for gh-flavored markdown is the digital version of a cardstock version that comes in the edu pack you can request for your school. (gh will send you enough swag for all of your CS students...)
+## Miscellany: 
+
+* cheatsheet for gh-flavored markdown is the digital version of a cardstock version that comes in the edu pack you can request for your school. (gh will send you enough swag for all of your CS students...)
 
 * * *
+
+## Readme vs Readme
 
 Wanna get rid of that README.md file in your work repo? Read on...
 
@@ -30,6 +34,8 @@ Since the button image is the same for all your repos, you can just copy this, a
 ...and once you have verified you have a working button on your README.org page, you can git rm your README.md file and enjoy GOODCLEANLIVIN.
 
 * * *
+
+## CGOL
 
 John Conway's Game of Life:
   - overview: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
