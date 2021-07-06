@@ -403,7 +403,7 @@ Starter kit: This daily directory has two Java files:
 
 _YOUR CODING MISSION:_
 
-1. Fetch KtS.
+1. Make sure you have scrap paper and notes on hand.
 1. Discuss questions/comments/concerns regarding [chapter 10](https://books.trinket.io/thinkjava/chapter10.html) in ThinkJava with your team.
 1. Copy `Time.java` and `Driver.java` into your work repo.
 1. Discuss questions/comments/concerns regarding [chapter 11](https://books.trinket.io/thinkjava/chapter11.html) in ThinkJava with your team.
