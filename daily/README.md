@@ -487,3 +487,12 @@ _YOUR CODING MISSION:_
 
 * * *
 
+### Day 7 | Day 0b111 | Day 0x7 : 7/08
+
+Lab work time in small groups. 
+
+Demos/discussion of SuperArray lab.
+
+Lecture: Java standard library 
+
+Lab work time in small groups. 
