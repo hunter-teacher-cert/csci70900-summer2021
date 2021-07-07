@@ -445,3 +445,46 @@ Demos/discussion of Time lab.
 Lecture: Encapsulation
 
 Lab work time in small groups. (implement more advanced class functionality)
+
+Lab work time in small groups. (basic class implementation)
+
+#### Work: Intro to Classes and Objects
+
+_GOAL:_
+
+Gain familiarity with encapsulation by implementing a wrapper class.
+
+_GUIDELINES:_
+
+Starter kit: This daily directory has two Java files: 
+- `SuperArray.java`
+- `SuperArrayDriver.java`
+
+`SuperArray.java` will contain the blueprint for a SuperArray. `SuperArrayDriver.java` will contain the main method that will be used to test the functionality of SuperArray. 
+- To compile, run `javac SuperArrayDriver.java SuperArray.java` -- which will compile both Java files. 
+- To run, use `java SuperArrayDriver`.
+
+_YOUR CODING MISSION:_
+
+1. Make sure you have scrap paper and notes on hand.
+1. Discuss questions/comments/concerns regarding demo/intro of SuperArray with teammates. 
+1. Implement each method in the skeleton, in the order that makes most sense to your team.
+
+* Your driver file should contain code to test each aspect of SuperArray functionality.
+* Your SuperArray class definition file should contain code to
+    - tell a SuperArray object how to do the tasks necessary to achieve the above
+
+- PROTIPS:
+  - Use encapsulation diagram ("whiteboarding") as focal point for addressing intra-team Q/C/C, and for verbal walk-through of algorithm for each method you develop.
+  - Design first. Sketch out your plan on paper ("keys to success"), transcribe into comments in your code file.
+  - Get something, however, minimal, to compile and run ASAP. Incrementally grow it until it aligns with your goal.
+  - Never stray far from runnable code. 
+- Grow cohort KB ("knowledge base") on slack:
+  - Have a Q/C/C? Post. 
+  - Confident in your skills/knowledge? _See how well you can explain it._
+- DELIVERABLE:
+  - Save in your_work_repo: `6/SuperArray.java` and `6/SuperArrayDriver.java`
+  - Include heading at top of file, as comment. List all collaborators and consultants.
+
+* * *
+
