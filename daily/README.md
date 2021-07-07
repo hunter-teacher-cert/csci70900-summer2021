@@ -446,7 +446,7 @@ Lecture: Encapsulation vis-a-vis addressing array limitations
 
 Lab work time in small groups. (implement more advanced class functionality)
 
-#### Work: Intro to Classes and Objects
+#### Work: Writing a Wrapper Class
 
 _GOAL:_
 
