@@ -442,11 +442,9 @@ Lab work time in small groups.
 
 Demos/discussion of Time lab.
 
-Lecture: Encapsulation
+Lecture: Encapsulation vis-a-vis addressing array limitations
 
 Lab work time in small groups. (implement more advanced class functionality)
-
-Lab work time in small groups. (basic class implementation)
 
 #### Work: Intro to Classes and Objects
 
