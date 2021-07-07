@@ -493,6 +493,6 @@ Lab work time in small groups.
 
 Demos/discussion of SuperArray lab.
 
-Lecture: Java standard library 
+Lecture
 
 Lab work time in small groups. 
