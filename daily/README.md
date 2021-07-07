@@ -482,6 +482,7 @@ _YOUR CODING MISSION:_
   - Confident in your skills/knowledge? _See how well you can explain it._
 - DELIVERABLE:
   - Save in your_work_repo: `6/SuperArray.java` and `6/SuperArrayDriver.java`
+  - You are welcome/encouraged to store auxiliary materials in your `6/` directory. (diagrams, notes, etc.) 
   - Include heading at top of file, as comment. List all collaborators and consultants.
 
 * * *
