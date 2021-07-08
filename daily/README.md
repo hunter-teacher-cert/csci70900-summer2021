@@ -498,3 +498,25 @@ Demos/discussion of ArrayList.
 Lecture: Sorting and Searching
 
 Lab work time in small groups. 
+
+#### Work: Reading Code for Understanding / Utilizing ArrayList
+
+_GOAL:_
+
+Gain familiarity with usage of ArrayList and with reviewing/documenting code.
+
+_YOUR MISSION:_
+
+1. Save a copy of the "mystery" file for today. 
+1. As a team, follow usage instructions contained therein.
+
+- PROTIPS:
+- Grow cohort KB ("knowledge base") on slack:
+  - Have a Q/C/C? Post. 
+  - Confident in your skills/knowledge? _See how well you can explain it._
+- DELIVERABLE:
+  - Save in your_work_repo: `7/Foogle.java`
+  - Include heading at top of file, as comment. List all collaborators and consultants.
+
+* * *
+
