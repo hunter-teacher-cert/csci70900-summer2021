@@ -52,10 +52,14 @@ John Conway's Game of Life:
 
 * * *
 
-## ArrayList
+## More Java
+### ArrayList:
   - https://www.w3schools.com/java/java_arraylist.asp
   - https://www.guru99.com/how-to-use-arraylist-in-java.html
   - https://www.tutorialspoint.com/java/java_arraylist_class.htm
   - https://www.callicoder.com/java-arraylist/
+### Java API
+  - APCS subset: https://www2.cs.duke.edu/csed/ap/subset/doc/
+  - complete (v14): https://docs.oracle.com/en/java/javase/14/docs/api/index.html
 
 * * *
