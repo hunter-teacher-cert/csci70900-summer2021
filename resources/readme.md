@@ -52,3 +52,10 @@ John Conway's Game of Life:
 
 * * *
 
+## ArrayList
+  - https://www.w3schools.com/java/java_arraylist.asp
+  - https://www.guru99.com/how-to-use-arraylist-in-java.html
+  - https://www.tutorialspoint.com/java/java_arraylist_class.htm
+  - https://www.callicoder.com/java-arraylist/
+
+* * *
