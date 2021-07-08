@@ -491,7 +491,9 @@ _YOUR CODING MISSION:_
 
 Lab work time in small groups. 
 
-Demos/discussion of SuperArray lab.
+Demos/discussion of SuperArray.
+
+Demos/discussion of ArrayList.
 
 Lecture
 
