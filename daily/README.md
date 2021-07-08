@@ -495,6 +495,6 @@ Demos/discussion of SuperArray.
 
 Demos/discussion of ArrayList.
 
-Lecture
+Lecture: Sorting and Searching
 
 Lab work time in small groups. 
